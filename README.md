@@ -1,0 +1,1 @@
+In computer science, a data structure is a data organization and storage formate that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationship among them, and the sunctions or operations that can be applied to the data.

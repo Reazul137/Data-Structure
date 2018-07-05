@@ -15,6 +15,6 @@ Searching Algorithm :
 
 <b>Linear Search :</b> In computer science, linear search or sequential search is a method for finding a target value within a list. It sequentially checks each element of the list for the target value until a match is found or until all the elements have been searched.<br>
 
-Binary Search:In computer science, binary search, also known as half-interval search,logarithmic search, or binary chop, is a search algorithm that finds the position of a target value within a sorted array. Binary search compares the target value to the middle element of the array.
+<b>Binary Search:</b>In computer science, binary search, also known as half-interval search,logarithmic search, or binary chop, is a search algorithm that finds the position of a target value within a sorted array. Binary search compares the target value to the middle element of the array.
 
 https://www.geeksforgeeks.org/binary-search/

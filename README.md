@@ -1,6 +1,15 @@
 <b>Data Structure:</b> In computer science, a data structure is a data organization and storage formate that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationship among them, and the sunctions or operations that can be applied to the data.
 
 <b>Shorting :</b> Sorting refers to ordering data in an increasing or decreasing fashion according to some linear relationship among the data items. Sorting can be done on names, numbers and records. Sorting reduces the For example, it is relatively easy to look up the phone number of a friend from a telephone dictionary because the names in the phone book have been sorted into alphabetical order.
+There are many types of shorting, they are : 
+1. Insertion Sort
+2. Merge Sort
+3. Quick Sort
+4. Radix Sort
+5. Heap Sort
+6. Selection sort
+7. Bubble Sort
+
 
 <b>Search :</b> a search algorithm is any algorithm which solves the search problem, namely, to retrieve information stored within some data structure, or calculated in the search space of a problem domain. Examples of such structures include but are not limited to a linked list, an array data structure, or a search tree. The appropriate search algorithm often depends on the data structure being searched, and may also include prior knowledge about the data. Searching also encompasses algorithms that query the data structure, such as the SQL SELECT command.
 Searching Algorithm :

@@ -12,7 +12,7 @@ There are many types of shorting, they are :
 
 <b>Insertion Sort : </b>C program for insertion sort to sort numbers. This code implements insertion sort algorithm to arrange numbers of an array in ascending order. With a little modification, it will arrange numbers in descending order. Best case complexity of insertion sort is O(n), average and the worst case complexity is O(n2). <a href="https://www.geeksforgeeks.org/insertion-sort/">Insertion Sort.</a><br>
 
-<b>Bubble Sort :</b>Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.<br>
+<b>Bubble Sort :</b>Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order. <a href="https://www.geeksforgeeks.org/bubble-sort/"> Bubble Sort</a><br>
 
 
 <b>Search :</b> a search algorithm is any algorithm which solves the search problem, namely, to retrieve information stored within some data structure, or calculated in the search space of a problem domain. Examples of such structures include but are not limited to a linked list, an array data structure, or a search tree. The appropriate search algorithm often depends on the data structure being searched, and may also include prior knowledge about the data. Searching also encompasses algorithms that query the data structure, such as the SQL SELECT command.

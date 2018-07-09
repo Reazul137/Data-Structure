@@ -20,11 +20,11 @@ There are many types of shorting, they are :
 
 <b>Bubble Sort :</b>Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order. <a href="https://www.geeksforgeeks.org/bubble-sort/"> Bubble Sort</a><br>
 1. Bubble Sort is very simple and easy to implement sorting technique.
-2. Untill unless explicity stated sorting means ascending order.
+2. Untill unless explicity stated sorting means ascending order.<br>
 ---** letes take an example,<br>
       we have a list of numbers stored in array :<br>
       A=[34,15,29,8]<br>
-         0  1  2  3<br>
+            0  1  2  3<br>
       logic starts with comparison of first two elements and if the left elements is greater than right element, they swap their position. Comparison proceeds till the end of array.
       
 

@@ -22,11 +22,11 @@ There are two types of Non-Primitive Data Structures, They are:
       2. <b>Graphs</b><br>
      
  <b>Data Structures Operations : </b>The basic operations that are performed on data structures are as follows:<br>
-      1. <b>Insertion : </b>Insertion means addition of a new data element in a data structure.
-      2. <b>Deletion  : </b>Deletion means removal of a data element from a data structure if it is found.
-      3. <b>Searching : </b>Searching involves searching for the specified data element in a data structure.
-      4. <b>Traversal : </b>Traversal of a data structure means processing all the data elements present in it.
-      5. <b>Sorting   : </b>Arranging data elements of a data structure in a specified order is called sorting.
+      1. <b>Insertion : </b>Insertion means addition of a new data element in a data structure.<br>
+      2. <b>Deletion  : </b>Deletion means removal of a data element from a data structure if it is found.<br>
+      3. <b>Searching : </b>Searching involves searching for the specified data element in a data structure.<br>
+      4. <b>Traversal : </b>Traversal of a data structure means processing all the data elements present in it.<br>
+      5. <b>Sorting   : </b>Arranging data elements of a data structure in a specified order is called sorting.<br>
       6. <b>Merging   : </b>Combining elements of two similar data structures to form a new data structure of the same type, is called merging.<br>
 
 

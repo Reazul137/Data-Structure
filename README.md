@@ -10,12 +10,16 @@ There are four type of Primitive Data Structures, They are :
 
 <b>Non-Primitive Data Structure: </b>  Non-Primitive data structure is the processing of complex numbers.very few computers are capable of doing arithmetic on comples numbers. Linked list, stacts, queues, trees and graphs are exapmples of non-primitive data structures.<br>
 There are two types of Non-Primitive Data Structures, They are:
-1. Linear Data Structures
-2. Non-Linear Data Structures
-
-
-
-
+1. Linear Data Structures,
+   Linear Data Structures also 4 types:
+     1. Arrays
+     2. Linked List
+     3. Stacks
+     4. Queues
+2. Non-Linear Data Structures,
+    There are two types of Non-Linear Data Structures, and they:
+     1. Trees
+     2. Graphs
 
 
 <b>Shorting :</b> Sorting refers to ordering data in an increasing or decreasing fashion according to some linear relationship among the data items. Sorting can be done on names, numbers and records. Sorting reduces the For example, it is relatively easy to look up the phone number of a friend from a telephone dictionary because the names in the phone book have been sorted into alphabetical order.

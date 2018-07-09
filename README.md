@@ -1,4 +1,22 @@
-<b>Data Structure:</b> In computer science, a data structure is a data organization and storage formate that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationship among them, and the sunctions or operations that can be applied to the data.
+<b>Data Structure:</b> In computer science, a data structure is a data organization and storage formate that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationship among them, and the sunctions or operations that can be applied to the data.<br>
+
+<b>Classification of Data Structures :</b> Data Structures are generally classified into <b>1.primitive</b> and <b>2.Non-Primitive</b> data structures.<br>
+<b>Primitive Data Structure :</b>Basic data types such as integer, real, character and boolean are known as primitive data structures. These data types consist of characters that can't be divided, and hence they are also called simple data types.<br>
+There are four type of Primitive Data Structures, They are :
+1. Integer
+2. Real
+3. Character
+4. Boolean<br>
+
+<b>Non-Primitive Data Structure: </b>  Non-Primitive data structure is the processing of complex numbers.very few computers are capable of doing arithmetic on comples numbers. Linked list, stacts, queues, trees and graphs are exapmples of non-primitive data structures.<br>
+There are two types of Non-Primitive Data Structures, They are:
+1. Linear Data Structures
+2. Non-Linear Data Structures
+
+
+
+
+
 
 <b>Shorting :</b> Sorting refers to ordering data in an increasing or decreasing fashion according to some linear relationship among the data items. Sorting can be done on names, numbers and records. Sorting reduces the For example, it is relatively easy to look up the phone number of a friend from a telephone dictionary because the names in the phone book have been sorted into alphabetical order.
  1. Sorting is the process of arrangining the data in some logical order.

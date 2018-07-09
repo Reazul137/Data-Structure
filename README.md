@@ -16,10 +16,10 @@ There are two types of Non-Primitive Data Structures, They are:
      2. Linked List
      3. Stacks
      4. Queues
-2. Non-Linear Data Structures,
-    There are two types of Non-Linear Data Structures, and they:
-     1. Trees
-     2. Graphs
+2. <b>Non-Linear Data Structures :</b>A Data Structure is said to be non-linear if the data not arranged in sequence. The insertion and deletion of data is therefore not possible in a linear fashion.<br>,
+     There are two types of Non-Linear Data Structures, and they:
+      1. Trees
+      2. Graphs
 
 
 <b>Shorting :</b> Sorting refers to ordering data in an increasing or decreasing fashion according to some linear relationship among the data items. Sorting can be done on names, numbers and records. Sorting reduces the For example, it is relatively easy to look up the phone number of a friend from a telephone dictionary because the names in the phone book have been sorted into alphabetical order.

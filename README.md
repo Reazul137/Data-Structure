@@ -12,11 +12,11 @@ There are four type of Primitive Data Structures, They are :
 There are two types of Non-Primitive Data Structures, They are:
 1. <b>Linear Data Structures : </b> A data structures is said to be linear if elements form a sequence or a linear list. In linear data structures, the data is arranged in a linear fashion although the way the are stored in memory need not be sequential.<br>
    Four types of Linear Data Structures :
-     1. Arrays
+     1. <b>Arrays :</b>An array is a data structure that contains a group of elements. Typically these elements are all of the same data type, such as an integer or string. Arrays are commonly used in computer programs to organize data so that a related set of values can be easily sorted or searched.
      2. Linked List
      3. Stacks
      4. Queues
-2. <b>Non-Linear Data Structures :</b>A Data Structure is said to be non-linear if the data not arranged in sequence. The insertion and deletion of data is therefore not possible in a linear fashion.<br>,
+2. <b>Non-Linear Data Structures :</b>A Data Structure is said to be non-linear if the data not arranged in sequence. The insertion and deletion of data is therefore not possible in a linear fashion.<br>
      There are two types of Non-Linear Data Structures, and they:
       1. Trees
       2. Graphs

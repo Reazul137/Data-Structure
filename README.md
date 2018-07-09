@@ -13,13 +13,21 @@ There are two types of Non-Primitive Data Structures, They are:
 1. <b>Linear Data Structures : </b> A data structures is said to be linear if elements form a sequence or a linear list. In linear data structures, the data is arranged in a linear fashion although the way the are stored in memory need not be sequential.<br>
    Four types of Linear Data Structures :
      1. <b>Arrays :</b>An array is a data structure that contains a group of elements. Typically these elements are all of the same data type, such as an integer or string. Arrays are commonly used in computer programs to organize data so that a related set of values can be easily sorted or searched.
-     2. Linked List
-     3. Stacks
-     4. Queues
+     2. <b>Linked List</b>
+     3. <b>Stacks</b>
+     4. <b>Queues</b>
 2. <b>Non-Linear Data Structures :</b>A Data Structure is said to be non-linear if the data not arranged in sequence. The insertion and deletion of data is therefore not possible in a linear fashion.<br>
      There are two types of Non-Linear Data Structures, and they:
-      1. Trees
-      2. Graphs
+      1. <b>Trees</b>
+      2. <b>Graphs</b><br>
+     
+ <b>Data Structures Operations : </b>The basic operations that are performed on data structures are as follows:
+      1. Insertion : Insertion means addition of a new data element in a data structure.
+      2. Deletion  : Deletion means removal of a data element from a data structure if it is found.
+      3. Searching : Searching involves searching for the specified data element in a data structure.
+      4. Traversal : Traversal of a data structure means processing all the data elements present in it.
+      5. Sorting   : Arranging data elements of a data structure in a specified order is called sorting.
+      6. Merging   : Combining elements of two similar data structures to form a new data structure of the same type, is called merging.<br>
 
 
 <b>Shorting :</b> Sorting refers to ordering data in an increasing or decreasing fashion according to some linear relationship among the data items. Sorting can be done on names, numbers and records. Sorting reduces the For example, it is relatively easy to look up the phone number of a friend from a telephone dictionary because the names in the phone book have been sorted into alphabetical order.

@@ -1,6 +1,7 @@
 <b>Data Structure:</b> In computer science, a data structure is a data organization and storage formate that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationship among them, and the sunctions or operations that can be applied to the data.<br>
 
 <b>Classification of Data Structures :</b> Data Structures are generally classified into <b>1.primitive</b> and <b>2.Non-Primitive</b> data structures.<br>
+
 <b>Primitive Data Structure :</b>Basic data types such as integer, real, character and boolean are known as primitive data structures. These data types consist of characters that can't be divided, and hence they are also called simple data types.<br>
 There are four type of Primitive Data Structures, They are :
 1. Integer

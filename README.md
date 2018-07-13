@@ -39,7 +39,7 @@ There are two types of Non-Primitive Data Structures, They are:
      -- External Sorting<br>
      
 There are many types of shorting, they are : 
-1. Insertion Sort
+1. <b>Insertion Sort : </b> Insertion sort is a simple sorting algorithm that builds the final sorted array (or list) one item at a time. It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort.<br>
 2. Merge Sort
 3. Quick Sort
 4. Radix Sort

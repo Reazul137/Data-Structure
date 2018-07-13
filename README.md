@@ -45,7 +45,7 @@ There are many types of shorting, they are :
 4. Radix Sort
 5. Heap Sort
 6. <B> Selection sort :</b> In computer science, selection sort is a sorting algorithm, specifically an in-place comparison sort. It has O(n²) time complexity, making it inefficient on large lists, and generally performs worse than the similar insertion sort.<br>
-7. Bubble Sort</br>
+7. <b>Bubble Sort : </b> Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed, which indicates that the list is sorted.</br>
 
 <b>Insertion Sort : </b>C program for insertion sort to sort numbers. This code implements insertion sort algorithm to arrange numbers of an array in ascending order. With a little modification, it will arrange numbers in descending order. Best case complexity of insertion sort is O(n), average and the worst case complexity is O(n2). <a href="https://www.geeksforgeeks.org/insertion-sort/">Insertion Sort.</a><br>
 

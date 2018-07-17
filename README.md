@@ -107,9 +107,9 @@ Searching Algorithm :
 
 <b> Word/Text Processing : </b> In earlier times, Character data processed by the computer consisted mainly of data items, such as names and adresses. Today the computer also processes printed matter, such as letters, articles and reports. It is in this latter context that we use therm "Word processing". <br>
 Given some printed text, the operations usually associated with world processing are the following : <br>
-     1. Replacement, Replace one string in the text by another. 
-     2. Insertion, Inserting a string in the middle of the text.
-     3. Deletion, Deleting a string from the text.
+   1. Replacement, Replace one string in the text by another. 
+   2. Insertion, Inserting a string in the middle of the text.
+   3. Deletion, Deleting a string from the text.
     
 <b>Pattern Matching Algorithm</b><br>
 <b>First Pattern Matching Algorithm</b><br>

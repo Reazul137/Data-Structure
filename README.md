@@ -122,3 +122,9 @@ Given some printed text, the operations usually associated with world processing
 <b>First Pattern Matching Algorithm</b><br>
 <b>Second Pattern Matching Algorithm</b><br>
   
+<h1>Chepter 4-- Array, Records And Pointers</h1>
+<h1>Chepter 5-- Linked List</h1>
+<h1>Chepter 6-- Stacks, Queues, Recursion</h1>
+<h1>Chepter 7-- Trees</h1>
+<h1>Chepter 8-- Graph And Their Applications</h1>
+<h1>Chepter 9-- SOrting And Searching</h1>

@@ -102,14 +102,14 @@ Searching Algorithm :
     3. Dynamic.
   
 <b>String Operations :</b> 
-1. Substring : Accessing a substring from a given string requires three piexes of information :
+1.<b>Substring : </b>Accessing a substring from a given string requires three piexes of information :
      1. The name of the string or the string itselt.
      2. The position of the first character of the substring in the given string.
      3. The length of the substring or the position of the last character of the substring.<br>
    example: SUBSTRING(string, initial, length)
-2. Indexing  : Inexing also called pattern matching, refers to finding the position where a string pattern P find appears in a given string text T. We call this operation INDEX and write<br>
+2.<b> Indexing  : </b>Inexing also called pattern matching, refers to finding the position where a string pattern P find appears in a given string text T. We call this operation INDEX and write<br>
    example: INDEX(text, pattern)
-3. Concatanation
-4. Length
+3.<b> Concatanation : </b>
+4.<b> Length : </b>
 
   

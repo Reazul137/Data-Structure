@@ -89,7 +89,13 @@ Searching Algorithm :
     3. Special Character<br>
     
  <b>Shorting String : </b> Generally strings are sorted in three of structures : <br>
- 1. Fixed-length Structures
- 2. Variable-length structures
- 3. Linked Structures
+ 1. Fixed-length Structures.
+ 2. Variable-length structures.
+ 3. Linked Structures. <br>
+ 
+ <b>Character Data Type : </b> Each data type has its own formula for decoding a sequence of bits in memory : <br>
+ 1. Constants
+ 2. Variables
+ 
+ 
   

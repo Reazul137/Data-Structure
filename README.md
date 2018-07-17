@@ -102,7 +102,11 @@ Searching Algorithm :
     3. Dynamic.
   
 <b>String Operations :</b> 
-1. Substring
+1. Substring : Accessing a substring from a given string requires three piexes of information :
+       1. The name of the string or the string itselt.
+       2. The position of the first character of the substring in the given string.
+       3. The length of the substring or the position of the last character of the substring.
+   example: SUBSTRING(string, initial, length)
 2. Indexing
 3. Concatanation
 4. Length

@@ -1,15 +1,6 @@
-<b>Data Structure:</b> In computer science, a data structure is a data organization and storage formate that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationship among them, and the sunctions or operations that can be applied to the data.<br>
 
-<b>Classification of Data Structures :</b> Data Structures are generally classified into <b>1.primitive</b> and <b>2.Non-Primitive</b> data structures.<br>
 
-<b>Primitive Data Structure :</b>Basic data types such as integer, real, character and boolean are known as primitive data structures. These data types consist of characters that can't be divided, and hence they are also called simple data types.<br>
-There are four type of Primitive Data Structures, They are :
-1. Integer
-2. Real
-3. Character
-4. Boolean<br>
 
-<b>Non-Primitive Data Structure: </b>  Non-Primitive data structure is the processing of complex numbers.very few computers are capable of doing arithmetic on comples numbers. Linked list, stacts, queues, trees and graphs are exapmples of non-primitive data structures.<br>
 There are two types of Non-Primitive Data Structures, They are:
 1. <b>Linear Data Structures : </b> A data structures is said to be linear if elements form a sequence or a linear list. In linear data structures, the data is arranged in a linear fashion although the way the are stored in memory need not be sequential.<br>
    Four types of Linear Data Structures :
@@ -74,6 +65,20 @@ Searching Algorithm :
 <a href="https://www.geeksforgeeks.org/binary-search/" target="_blank">Binary search.</a>
 
 <h1>Chepter 1-- Introduction And OverView</h1>
+
+<b>Data Structure:</b> In computer science, a data structure is a data organization and storage formate that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationship among them, and the sunctions or operations that can be applied to the data.<br>
+
+<b>Classification of Data Structures :</b> Data Structures are generally classified into <b>1.primitive</b> and <b>2.Non-Primitive</b> data structures.<br>
+
+<b>Primitive Data Structure :</b>Basic data types such as integer, real, character and boolean are known as primitive data structures. These data types consist of characters that can't be divided, and hence they are also called simple data types.<br>
+There are four type of Primitive Data Structures, They are :
+1. Integer
+2. Real
+3. Character
+4. Boolean<br>
+
+<b>Non-Primitive Data Structure: </b>  Non-Primitive data structure is the processing of complex numbers.very few computers are capable of doing arithmetic on comples numbers. Linked list, stacts, queues, trees and graphs are exapmples of non-primitive data structures.<br>
+
 <h1>Chepter 2-- Preliminaries</h1>
 <h1>Chepter 3-- String Processing</h1>
   <b>Basic Terminology : </b>

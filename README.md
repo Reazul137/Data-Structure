@@ -73,9 +73,8 @@ Searching Algorithm :
 <b>Binary Search:</b>In computer science, binary search, also known as half-interval search,logarithmic search, or binary chop, is a search algorithm that finds the position of a target value within a sorted array. Binary search compares the target value to the middle element of the array.
 <a href="https://www.geeksforgeeks.org/binary-search/" target="_blank">Binary search.</a>
 
-<b>Preliminaries : </b>
-
-
+<h1>Chepter 1-- Introduction And OverView</h1>
+<h1>Chepter 2-- Preliminaries</h1>
 <h1>Chepter 3-- String Processing</h1>
   <b>Basic Terminology : </b>
     1. Alphabate

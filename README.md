@@ -109,7 +109,7 @@ Searching Algorithm :
    example: SUBSTRING(string, initial, length)<br>
 2.<b> Indexing  : </b>Inexing also called pattern matching, refers to finding the position where a string pattern P find appears in a given string text T. We call this operation INDEX and write.<br>
    example: INDEX(text, pattern)<br>
-3.<b> Concatanation : </b>
-4.<b> Length : </b>
+3.<b> Concatanation : </b> Concatanation is perfomed in C language the strcat function.<br>
+4.<b> Length : </b> The number of characters in a string is called its length.<br>
 
   

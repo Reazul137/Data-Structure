@@ -107,7 +107,8 @@ Searching Algorithm :
      2. The position of the first character of the substring in the given string.
      3. The length of the substring or the position of the last character of the substring.<br>
    example: SUBSTRING(string, initial, length)
-2. Indexing
+2. Indexing  : Inexing also called pattern matching, refers to finding the position where a string pattern P find appears in a given string text T. We call this operation INDEX and write<br>
+   example: INDEX(text, pattern)
 3. Concatanation
 4. Length
 

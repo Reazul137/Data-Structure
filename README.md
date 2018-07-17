@@ -94,8 +94,13 @@ Searching Algorithm :
  3. Linked Structures. <br>
  
  <b>Character Data Type : </b> Each data type has its own formula for decoding a sequence of bits in memory : <br>
- 1. Constants
- 2. Variables
+ 1. Constants : Many programming language denote string sonstantsby placing the string in either single or double quotation marks, 
+ for example, "THE END" or "TO BE OR NOT TO BE"
+ 2. Variables : Each programming language its own rules for forming character variables. However, such variables fall into one of three categories :
+    1. Static.
+    2. Semistatic.
+    3. Dynamic.
+  
  
  
   

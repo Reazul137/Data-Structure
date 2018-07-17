@@ -86,5 +86,10 @@ Searching Algorithm :
   <b>Basic Terminology : </b>
     1. Alphabate
     2. Digits
-    3. Special Character
-
+    3. Special Character<br>
+    
+ <b>Shorting String : </b> Generally strings are sorted in three of structures : <br>
+ 1. Fixed-length Structures
+ 2. Variable-length structures
+ 3. Linked Structures
+  

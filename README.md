@@ -83,4 +83,8 @@ Searching Algorithm :
 
 
 <h1>Chepter 3-- String Processing</h1>
+  <b>Basic Terminology : </b>
+    1. Alphabate
+    2. Digits
+    3. Special Character
 

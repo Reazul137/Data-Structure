@@ -117,5 +117,8 @@ Given some printed text, the operations usually associated with world processing
     1. Replacement, Replace one string in the text by another. 
     2. Insertion, Inserting a string in the middle of the text.
     3. Deletion, Deleting a string from the text.
-
+    
+<b>Pattern Matching Algorithm</b><br>
+<b>First Pattern Matching Algorithm</b><br>
+<b>Second Pattern Matching Algorithm</b><br>
   

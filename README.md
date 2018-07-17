@@ -112,4 +112,6 @@ Searching Algorithm :
 3.<b> Concatanation : </b> Concatanation is perfomed in C language the strcat function.<br>
 4.<b> Length : </b> The number of characters in a string is called its length.<br>
 
+<b> Word/Text Processing : </b> In earlier times, Character data processed by the computer consisted mainly of data items, such as names and adresses. Today the computer also processes printed matter, such as letters, articles and reports. It is in this latter context that we use therm "Word processing". <br>
+
   

@@ -101,7 +101,7 @@ Searching Algorithm :
     2. Semistatic.
     3. Dynamic.
   
-<b>String Operations :</b>
+<b>String Operations :</b> 
 1. Substring
 2. Indexing
 3. Concatanation

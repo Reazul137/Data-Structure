@@ -81,6 +81,18 @@ There are two types of Non-Primitive Data Structures, They are:
       1. <b>Trees</b>
       2. <b>Graphs</b><br>
 <h1>Chepter 2-- Preliminaries</h1>
+
+<b>Introduction</b><br>
+<b>Mathematical notations and functions</b><br>
+<b>algorithmic notation</b><br>
+<b>control structure</b><br>
+<b>complexity of algorithm</b><br>
+<b>other asymptotic notations for complexity of algorithm</b><br>
+<b>subalgorithm</b><br>
+<b>veriables data type</b><br>
+
+
+
 <h1>Chepter 3-- String Processing</h1>
   <b>Basic Terminology : </b>
     1. Alphabate

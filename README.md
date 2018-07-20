@@ -90,7 +90,14 @@ There are two types of Non-Primitive Data Structures, They are:
     5. <b> Factorial Function</b><br>
     6. <b> Permutations</b><br>
     7. <b> Exponents and Logarithms</b><br>
-<b>algorithmic notation</b><br>
+<b>Algorithmic Notation : </b> <br>
+    1. <b>Identidying Number</b><br>
+    2. <b>Steps, Control, Exit</b><br>
+    3. <b>Comments</b><br>
+    4. <b>Variables Name</b><br>
+    5. <b>Assignment Statement</b><br>
+    6. <b>Input, Output</b><br>
+    7. <b>Procedures</b><br>
 <b>control structure</b><br>
 <b>complexity of algorithm</b><br>
 <b>other asymptotic notations for complexity of algorithm</b><br>

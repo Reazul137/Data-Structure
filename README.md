@@ -82,8 +82,14 @@ There are two types of Non-Primitive Data Structures, They are:
       2. <b>Graphs</b><br>
 <h1>Chepter 2-- Preliminaries</h1>
 
-<b>Introduction</b><br>
-<b>Mathematical notations and functions</b><br>
+<b>Mathematical Notations and Functions : </b> Mathematical functions which appear very often in the analysis of algorithms and in computer science in general, together with their notation.<br>
+     1. <b> Floor and Xeilling Functions</b>
+     2. <b> Remainder Function; Modular Arithmatic</b>
+     3. <b> Integer and Absolute value functions</b>
+     4. <b> Sumations symbol; Sums</b>
+     5. <b> Factorial Function</b>
+     6. <b> Permutations</b>
+     7. <b> Exponents and Logarithms</b>
 <b>algorithmic notation</b><br>
 <b>control structure</b><br>
 <b>complexity of algorithm</b><br>

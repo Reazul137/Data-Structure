@@ -1,11 +1,3 @@
-
-<b> Time complexity : </b><br>
-
-
-     
- 
-
-
 <b>Shorting :</b> Sorting refers to ordering data in an increasing or decreasing fashion according to some linear relationship among the data items. Sorting can be done on names, numbers and records. Sorting reduces the For example, it is relatively easy to look up the phone number of a friend from a telephone dictionary because the names in the phone book have been sorted into alphabetical order.
  1. Sorting is the process of arrangining the data in some logical order.
  2. this logical order may be ascending or descending in case of numeric values or dictionary order in case of alphanumeric values.

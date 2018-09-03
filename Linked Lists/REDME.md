@@ -1,4 +1,4 @@
-In computer science, a linked list is a linear collection of data elements, whose order is not given by their physical placement in memory. Instead, each element points to the next.
+<h1>C Programming Exercises, Practice, Solution : Linked List</h1><br>
 
 <b>1. Write a program in C to create and display Singly Linked List. <br>
 Test Data : <br>

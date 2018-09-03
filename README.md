@@ -165,6 +165,15 @@ Given some printed text, the operations usually associated with world processing
       
 <h1>Chepter 5-- Linked List</h1>
 <b>Introduction : </b>
+A linked list is a sequence of data structures, which are connected together via links.<br>
+Linked List is a sequence of links which contains items. Each link contains a connection to another link. Linked list is the second most-used data structure after array. Following are the important terms to understand the concept of Linked List.<br>
+
+Link − Each link of a linked list can store a data called an element.<br>
+
+Next − Each link of a linked list contains a link to the next link called Next.<br>
+
+LinkedList − A Linked List contains the connection link to the first link called First.<br>
+
 A linked list is a linear data structure where each element is a separate object. Each element (we will call it a node) of a list is comprising of two items - the data and a reference to the next node. The last node has a reference to null. The entry point into a linked list is called the head of the list.<br>
 
 

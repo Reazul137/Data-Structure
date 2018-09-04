@@ -177,6 +177,19 @@ LinkedList − A Linked List contains the connection link to the first link call
 A linked list is a linear data structure where each element is a separate object. Each element (we will call it a node) of a list is comprising of two items - the data and a reference to the next node. The last node has a reference to null. The entry point into a linked list is called the head of the list.<br>
 
 
+<b>Linked lists</b><br>
+<b>Representations of Linked Lists in Memory</b><br>
+<b>Traversing a Linked List</b><br>
+<b>Searching a Linked List</b><br>
+<b>Memory Allocation; Garbage Collection</b><br>
+<b>Insertion into a linked list</b><br>
+<b>Deletion from a linked list</b><br>
+<b>Header linked lists</b><br>
+<b>Circularly linked lists</b><br>
+<b>Two way lists</b><br>
+<b>Josephus problem and its solution</b><br>
+
+
 
 
 

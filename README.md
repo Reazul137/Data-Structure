@@ -170,13 +170,11 @@ b. Then go to the next node(if exists) and access the node information<br>
 c. Continue until no more nodes (that is, you have reached the null node) <br>
 <br>
 
-    2. <b>Append a new node (to the end) of a list : </b>Sometimes we must append (or insert to end) new nodes to the list. Since we only have information about the head of the list(unless you maintain a last pointer), we need to traverse the list until we find the last node. Then we insert new node to the end of the list. Note that we have to consider special cases such as list being empty. <br><br>
-    
-    
-    3. <b>Prepend a new node (to the beginning) of the list : </b><br>
-    4. <b>Inserting a new node to a specific position on the list.</b><br>
-    5. <b>Deleting a node from the list.</b><br>
-    6. <b>Updating a node in the list.</b><br>
+    2. <b> Append a new node (to the end) of a list :<b> <br>
+    3. <b> Prepend a new node (to the beginning) of the list : </b> <br>
+    4. <b> Inserting a new node to a specific position on the list : </b> <br>
+    5. <b> Deleting a node from the list : </b> <br>
+    6. <b> Updating a node in the list : </b> <br>
     
 <b>Representations of Linked Lists in Memory</b><br>
 <b>Traversing a Linked List</b><br>

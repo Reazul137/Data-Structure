@@ -180,7 +180,17 @@ b. Then go to the next node(if exists) and access the node information
 
 c. Continue until no more nodes (that is, you have reached the last node)<br>
 
-<b>Searching a Linked List</b><br>
+<b>Searching a Linked List : </b>Sequential search is the most common search used on linked list structures.<br>
+Step-1: Initialise the Current pointer with the beginning of the List.
+ 
+Step-2: Compare the KEY value with the Current node value; 
+ 
+			if they match then quit there  
+ 
+			else go to step-3.
+ 
+Step-3: Move the Current pointer to point to the next node in the list and go to step-2, till the list is not over or else quit.
+ 
 <b>Memory Allocation; Garbage Collection</b><br>
 <b>Insertion into a linked list</b><br>
 <b>Deletion from a linked list</b><br>

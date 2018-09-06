@@ -191,7 +191,34 @@ Step-2: Compare the KEY value with the Current node value;
  
 Step-3: Move the Current pointer to point to the next node in the list and go to step-2, till the list is not over or else quit.
  
-<b>Memory Allocation; Garbage Collection</b><br>
+<b>Memory Allocation; Garbage Collection : </b>
+(a)	Memory Allocation- 
+
+Whenever a new node is created, memory is allocated by the system. This memory is taken from list of those memory locations which are free i.e. not allocated. This list is called AVAIL List. Similarly, whenever a node is deleted, the deleted space becomes reusable and is added to the list of unused space i.e. to AVAIL List. This unused space can be used in future for memory allocation. 
+
+Memory allocation is of two types-
+
+1.	Static Memory Allocation
+2.	Dynamic Memory Allocation 
+
+1. Static Memory Allocation:
+
+When memory is allocated during compilation time, it is called ‘Static Memory Allocation’. This memory is fixed and cannot be increased or decreased after allocation. If more memory is allocated than requirement, then memory is wasted. If less memory is allocated than requirement, then program will not run successfully. So exact memory requirements must be known in advance. 
+
+2. Dynamic Memory Allocation:
+
+When memory is allocated during run/execution time, it is called ‘Dynamic Memory Allocation’. This memory is not fixed and is allocated according to our requirements. Thus in it there is no wastage of memory. So there is no need to know exact memory requirements in advance. 
+
+(b) Garbage Collection-
+
+Whenever a node is deleted, some memory space becomes reusable. This memory space should be available for future use. One way to do this is to immediately insert the free space into availability list. But this method may be time consuming for the operating system. So another method is used which is called ‘Garbage Collection’. This method is described below: In this method the OS collects the deleted space time to time onto the availability list. This process happens in two steps. In first step, the OS goes through all the lists and tags all those cells which are currently being used. In the second step, the OS goes through all the lists again and collects untagged space and adds this collected space to availability list. The garbage collection may occur when small amount of free space is left in the system or no free space is left in the system or when CPU is idle and has time to do the garbage collection. 
+
+(c) Overflow & Underflow-
+
+Overflow happens at the time of insertion. If we have to insert new space into the data structure, but there is no free space i.e. availability list is empty, then this situation is called ‘Overflow’. The programmer can handle this situation by printing the message of OVERFLOW. 
+
+Underflow happens at the time of deletion. If we have to delete data from the data structure, but there is no data in the data structure i.e. data structure is empty, then this situation is called ‘Underflow’. The programmer can handle this situation by printing the message of UNDERFLOW.
+<br>
 <b>Insertion into a linked list</b><br>
 <b>Deletion from a linked list</b><br>
 <b>Header linked lists</b><br>

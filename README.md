@@ -171,7 +171,15 @@ A linked list is a linear data structure where each element is a separate object
     6. Updating a node in the list.<br>
     
 <b>Representations of Linked Lists in Memory: </b>In memory the linked list is stored in scattered cells (locations).The memory for each node is allocated dynamically means as and when required. So the Linked List can increase as per the user wish and the size is not fixed, it can vary.<br>
-<b>Traversing a Linked List</b><br>
+
+<b>Traversing a Linked List : </b> A linked list is a linear data structure that needs to be traversed starting from the head node until the end of the list. Unlike arrays, where random access is possible, linked list requires access to its nodes through sequential traversal. Traversing a linked list is important in many applications. For example, we may want to print a list or search for a specific node in the list. Or we may want to perform an advanced operation on the list as we traverse the list. The algorithm for traversing a list is fairly trivial.<br>
+
+a. Start with the head of the list. Access the content of the head node if it is not null.
+
+b. Then go to the next node(if exists) and access the node information
+
+c. Continue until no more nodes (that is, you have reached the last node)<br>
+
 <b>Searching a Linked List</b><br>
 <b>Memory Allocation; Garbage Collection</b><br>
 <b>Insertion into a linked list</b><br>

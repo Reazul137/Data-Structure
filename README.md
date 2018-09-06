@@ -170,11 +170,11 @@ b. Then go to the next node(if exists) and access the node information<br>
 c. Continue until no more nodes (that is, you have reached the null node) <br>
 <br>
 
-    2. <b> Append a new node (to the end) of a list :<b> <br>
-    3. <b> Prepend a new node (to the beginning) of the list : </b> <br>
-    4. <b> Inserting a new node to a specific position on the list : </b> <br>
-    5. <b> Deleting a node from the list : </b> <br>
-    6. <b> Updating a node in the list : </b> <br>
+    2. Append a new node (to the end) of a list.
+    3. Prepend a new node (to the beginning) of the list.
+    4. Inserting a new node to a specific position on the list. 
+    5. Deleting a node from the list. 
+    6. Updating a node in the list. 
     
 <b>Representations of Linked Lists in Memory</b><br>
 <b>Traversing a Linked List</b><br>

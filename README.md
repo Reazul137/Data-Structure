@@ -147,21 +147,7 @@ Given some printed text, the operations usually associated with world processing
       4. <b>Traversal : </b>Traversal of a data structure means processing all the data elements present in it.<br>
       5. <b>Sorting   : </b>Arranging data elements of a data structure in a specified order is called sorting.<br>
       6. <b>Merging   : </b>Combining elements of two similar data structures to form a new data structure of the same type, is called merging.<br>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+     
       
 <h1>Chepter 5-- Linked List</h1>
 <b>Introduction : </b>
@@ -176,8 +162,22 @@ LinkedList − A Linked List contains the connection link to the first link call
 
 A linked list is a linear data structure where each element is a separate object. Each element (we will call it a node) of a list is comprising of two items - the data and a reference to the next node. The last node has a reference to null. The entry point into a linked list is called the head of the list.<br>
 
+<b>Operations on Linked List : </b><br> 
+    1. <b>Traversing a linked list : </b> The idea here is to step through the list from beginning to the end. Traversing a linked list is important for many applications.<br>
+    For examples, we may want to print the list or search for a specific node in the list. Or we may want to perform an advanced operation on the list as we traverse the list. The algorithm for traversing a list is fairly trivial.<br>
+a. Start with the head of the list. Access the content of the head node if it is not null.<br>
+b. Then go to the next node(if exists) and access the node information<br>
+c. Continue until no more nodes (that is, you have reached the null node) <br>
+<br>
 
-<b>Linked lists</b><br>
+    2. <b>Append a new node (to the end) of a list : </b>Sometimes we must append (or insert to end) new nodes to the list. Since we only have information about the head of the list(unless you maintain a last pointer), we need to traverse the list until we find the last node. Then we insert new node to the end of the list. Note that we have to consider special cases such as list being empty. <br><br>
+    
+    
+    3. <b>Prepend a new node (to the beginning) of the list : </b><br>
+    4. <b>Inserting a new node to a specific position on the list.</b><br>
+    5. <b>Deleting a node from the list.</b><br>
+    6. <b>Updating a node in the list.</b><br>
+    
 <b>Representations of Linked Lists in Memory</b><br>
 <b>Traversing a Linked List</b><br>
 <b>Searching a Linked List</b><br>

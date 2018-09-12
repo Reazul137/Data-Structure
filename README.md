@@ -270,7 +270,7 @@ Underflow happens at the time of deletion. If we have to delete data from the da
 
 <h1>Chepter 7-- Trees</h1>
 
-<b>Trees: </b> Unlike Arrays, Linked Lists, Stack and queues, which are linear data structures, trees are hierarchical data structures.<br>
+<b>Trees: </b> Unlike Arrays, Linked Lists, Stack and queues, which are linear data structures, trees are hierarchical data structures.<br><br>
 <b>Tree Vocabulary: </b> The topmost node is called root of the tree. The elements that are directly under an element are called its children. The element directly above something is called its parent. For example, a is a child of f and f is the parent of a. Finally, elements with no children are called leaves.<br>
 
 

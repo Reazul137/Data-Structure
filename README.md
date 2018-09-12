@@ -274,6 +274,12 @@ Underflow happens at the time of deletion. If we have to delete data from the da
 Natural tree is a bottom-up figure. However, the graphical representation of the data structure tree is a top-down figure.
 <br><br>
 <b>Tree Vocabulary: </b> The topmost node is called root of the tree. The elements that are directly under an element are called its children. The element directly above something is called its parent. For example, a is a child of f and f is the parent of a. Finally, elements with no children are called leaves.<br>
+1. A tree is a finite collection of nodes that has one to many relationship among nodes.<br>
+2. A tree is a hierarchical structure.<br>
+3. An ordered tree is a list of nodes that has a specially designated node called root node.<br> 
+4. The connection line between two nodes is called edge.<br>
+5. The node that has no child node is called leaf node. The node that has child node is called parent node.<br>
+6. A tree can be implemented (stored in memory) as an array or a linked list.<br>
 
 
 

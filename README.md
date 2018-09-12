@@ -298,12 +298,15 @@ Natural tree is a bottom-up figure. However, the graphical representation of the
 5. The node that has no child node is called leaf node. The node that has child node is called parent node.<br>
 6. A tree can be implemented (stored in memory) as an array or a linked list.<br><br>
 
-<b>Binary Tree : </b> A binary tree is finite set of nodes, where there is a special node called root node and every node (including root node) has at best two children.<br>
+<b>Binary Tree : </b>A binary tree is finite set of nodes, where there is a special node called root node and every node (including root node) has at best two children.<br>
 The trees excluding root node are called left sub-tree and right sub-tree.<br>
 
-<b>Full binary tree:</b>If a binary tree contains nodes in such a way that every node has at least two children except the leaf nodes, then the tree is called a full binary tree.<br>
+<b>Full binary tree:</b>If a binary tree contains nodes in such a way that every node has at least two children except the leaf nodes, then the tree is called a full binary tree.<br><br>
 <b>Complete binary tree:</b> If a binary tree contains nodes in such a way that every level except the deepest has as many nodes as possible and the nodes of the deepest level are in as left as possible, the tree is called complete binary tree.<br>
 All full binary trees are complete binary trees.<br>
+
+
+
 
 
 

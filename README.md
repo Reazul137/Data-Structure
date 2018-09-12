@@ -260,6 +260,23 @@ Underflow happens at the time of deletion. If we have to delete data from the da
 
 <h1>Chepter 6-- Stacks, Queues, Recursion</h1>
 
+<b>Introduction</b><br>
+<b>Stacks</b><br>
+<b>Array Representation of Stacks</b><br>
+<b>Linked Representation of Stacks</b><br>
+<b>Stack as ADT</b></br>
+<b>Arithmatic Ecpressions; Polish Notation</b><br>
+<b>Application of stacks</b><br>
+<b>Recursion</b><br>
+<b>Tower of Hanoi</b><br>
+<b><b>Implementation of Recursive Procedures by Stacks</b><br>
+<b>Queues</b><br>
+<b>Linked Representation of Queues</b><br>
+<b>Queue as ADT</b>
+<b>Circular Queues</b><br>
+<b>Deques</b><br>
+<b>Applications of Queues</b><br>
+
 
 
 

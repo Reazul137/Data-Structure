@@ -272,7 +272,7 @@ Underflow happens at the time of deletion. If we have to delete data from the da
 <b><b>Implementation of Recursive Procedures by Stacks</b><br>
 <b>Queues</b><br>
 <b>Linked Representation of Queues</b><br>
-<b>Queue as ADT</b>
+<b>Queue as ADT</b><br>
 <b>Circular Queues</b><br>
 <b>Deques</b><br>
 <b>Applications of Queues</b><br>

@@ -261,7 +261,13 @@ Underflow happens at the time of deletion. If we have to delete data from the da
 <h1>Chepter 6-- Stacks, Queues, Recursion</h1>
 
 <b>Introduction : </b> <br>
-<b>Stacks : </b> <br>
+<b>Stacks : </b>
+Stack is a linear list where any element is added at the top of the list and any element is deleted (accessed) from the top of the list.<br> 
+That means for stack an indicator or pointer must be used that indicates or points the top element of the stack.<br>
+Add operation for a stack is called push operation and deletion operation is called pop operation.<br>
+Stack is a LIFO (Last In First Out) structure.<br>
+So, the element which was added last will be deleted or accessed first.<br>
+<br>
 <b>Array Representation of Stacks : </b> <br>
 <b>Linked Representation of Stacks : </b> <br>
 <b>Stack as ADT : </b> <br>

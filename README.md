@@ -227,6 +227,12 @@ Push: Adds an item in the stack. If the stack is full, then it is said to be an 
 Pop: Removes an item from the stack. The items are popped in the reversed order in which they are pushed. If the stack is empty, then it is said to be an Underflow condition.<br>
 Peek or Top: Returns top element of stack.<br>
 isEmpty: Returns true if stack is empty, else false.<br>
+The elements of a stack are added from bottom to top means push operation is performed from bottom to top. 
+The elements are deleted from top to bottom. That is pop operation is performed from top to bottom.<br><br>
+
+Stack can be implemented in two ways; Using<br>
+Array <br>
+Linked list<br>
 <br>
 <b>Array Representation of Stacks : </b> <br>
 <b>Linked Representation of Stacks : </b> <br>

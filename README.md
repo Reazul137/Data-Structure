@@ -221,6 +221,13 @@ Add operation for a stack is called push operation and deletion operation is cal
 Stack is a LIFO (Last In First Out) structure.<br>
 So, the element which was added last will be deleted or accessed first.<br>
 <br>
+<b>Operation on Stack :</b>
+Mainly the following three basic operations are performed in the stack:<br>
+Push: Adds an item in the stack. If the stack is full, then it is said to be an Overflow condition.<br>
+Pop: Removes an item from the stack. The items are popped in the reversed order in which they are pushed. If the stack is empty, then it is said to be an Underflow condition.<br>
+Peek or Top: Returns top element of stack.<br>
+isEmpty: Returns true if stack is empty, else false.<br>
+<br>
 <b>Array Representation of Stacks : </b> <br>
 <b>Linked Representation of Stacks : </b> <br>
 <b>Stack as ADT : </b> <br>
